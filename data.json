@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "image": "https://avm-online.herokuapp.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0746%2F4691%2F3310%2Ffiles%2F6ba282c6-5df3-4b3e-b30e-27ee1f2010ed_size2000x2000_cropCenter.jpg%3Fv%3D1715070851&w=1920&q=75",
+        "title": "Lacoste Kadın Slim Fit V Yaka Siyah T-Shirt",
+        "color": "Siyah",
+        "price": "₺2800",
+        "size": [
+            {
+              "sizes": "S",
+              "quantity": "3"
+            },
+            {
+              "sizes": "M",
+              "quantity": "3"
+            },
+            {
+              "sizes": "L",
+              "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "image": "https://avm-online.herokuapp.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0746%2F4691%2F3310%2Ffiles%2F31b2c453-e18c-44b3-9cfb-66b202a6a4a0_size2000x2000_cropCenter.jpg%3Fv%3D1715070879&w=1920&q=75",
+        "title": "Lacoste Erkek Regular Fit Bisiklet Yaka Lacivert T-Shirt",
+        "color": "Lacivert",
+        "price": "₺1600",
+        "size": [
+            {
+              "sizes": "S",
+              "quantity": "3"
+            },
+            {
+              "sizes": "M",
+              "quantity": "3"
+            },
+            {
+              "sizes": "L",
+              "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "image": "https://avm-online.herokuapp.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0746%2F4691%2F3310%2Ffiles%2Fa62f1ae3-79b6-4126-b850-c3b21016bcce_c8336b10-e21c-4966-929a-96a17a27c99f.jpg%3Fv%3D1715335526&w=1920&q=75",
+        "title": "Lacoste Erkek Classic Fit L1212 Lacivert Polo",
+        "color": "Lacivert",
+        "price": "₺1200",
+        "size": [
+            {
+              "sizes": "S",
+              "quantity": "3"
+            },
+            {
+              "sizes": "M",
+              "quantity": "1"
+            },
+            {
+              "sizes": "L",
+              "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "image": "https://example.com/image.jpg",
+        "title": "Yeni Lacoste Ürünü",
+        "color": "Mavi",
+        "price": "₺2000",
+        "size": [
+            {
+              "sizes": "S",
+              "quantity": "5"
+            },
+            {
+              "sizes": "M",
+              "quantity": "5"
+            },
+            {
+              "sizes": "L",
+              "quantity": "5"
+            }
+        ]
+    }
+]
