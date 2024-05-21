@@ -61,26 +61,5 @@
               "quantity": "1"
             }
         ]
-    },
-    {
-        "id": "4",
-        "image": "https://example.com/image.jpg",
-        "title": "Yeni Lacoste Ürünü",
-        "color": "Mavi",
-        "price": "₺2000",
-        "size": [
-            {
-              "sizes": "S",
-              "quantity": "5"
-            },
-            {
-              "sizes": "M",
-              "quantity": "5"
-            },
-            {
-              "sizes": "L",
-              "quantity": "5"
-            }
-        ]
     }
 ]
